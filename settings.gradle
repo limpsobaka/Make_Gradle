@@ -1,0 +1,5 @@
+rootProject.name = 'Make_Gradle'
+include 'db'
+include 'service'
+include 'api'
+
